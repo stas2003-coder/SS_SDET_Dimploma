@@ -1,0 +1,23 @@
+
+Start positive scenario with form filling
+
+Title: Form Fields | Practice Automation is correct
+We are located into right page!
+password qwerty123 has entered
+Drink 'Milk' has been selected
+Drink 'Coffee' has been selected
+email test234@email.com has entered
+
+ Automation tool list has 5 instruments
+Tool: Selenium has next namelength: 8
+Tool: Playwright has next namelength: 10
+Tool: Cypress has next namelength: 7
+Tool: Appium has next namelength: 6
+Tool: Katalon Studio has next namelength: 14
+
+
+Tool: Katalon Studio has the most quantity of symbols: 14 
+
+message has entered
+Field 'Name' is not filled out
+Negative scenario is proceed
